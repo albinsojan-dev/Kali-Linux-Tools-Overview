@@ -26,6 +26,7 @@ This repository showcases a collection of essential Kali Linux tools for penetra
 | **whatweb** | A web scanner that identifies technologies, CMS, and other components of a website | Website fingerprinting and technology identification |
 | **Nikto** | is an open-source web server scanner designed to identify vulnerabilities and misconfigurations in web servers and applications | Web server vulnerability scanning |
 | **python3 -m http.server 8000** | starts a simple built-in HTTP server using Python's http.server module. It serves files from the current working directory over HTTP on port 8000 | Quick file serving for testing web applications |
+|**hydra** | A password-cracking tool that performs brute-force attacks on various protocols, including HTTP POST forms, using username and password wordlists | Brute-forcing login credentials for web applications or network services |
 
 ### Social Engineering & Exploitation Tools
 | Tool | Description | Use Case |
