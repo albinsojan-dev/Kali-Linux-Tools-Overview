@@ -14,6 +14,7 @@ This repository showcases a collection of essential Kali Linux tools for penetra
 | **recon-ng** | that supports tasks like domain enumeration, email harvesting, IP geolocation, and vulnerability assessment | Full-spectrum reconnaissance framework |
 | **nslookup** | is used to query DNS (Domain Name System) servers to obtain domain name or IP address mappings, or other DNS records | DNS query resolution and troubleshooting |
 | **theHarvester** | (OSINT) tool designed for gathering information about a target domain or organization during the reconnaissance phase | Open-source intelligence gathering |
+|**Gobuster** | designed for brute-force enumeration and discovery in web security testing also uncovering hidden resources on web servers | directory-listing |
 
 ### Network & Web Tools
 | Tool | Description | Use Case |
