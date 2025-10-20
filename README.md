@@ -4,18 +4,18 @@ This repository showcases a collection of essential Kali Linux tools for penetra
 
 ## Table of Contents
 
-- [Reconnaissance](#reconnaissance)
-- [Network & Web](#network--web)
+- [Reconnaissance](#reconnaissance-tools)
+- [Network & Web](#network--web-tools)
 - [Vulnerability Analysis](#vulnerability-analysis)
 - [Wireless Attacks](#wireless-attacks)
 - [Password Attacks](#password-attacks)
-- [Exploitation](#exploitation)
+- [Exploitation](#exploitation-tools)
 - [Post-Exploitation](#post-exploitation)
-- [Social Engineering](#social-engineering)
-- [Forensics](#forensics)
-- [Web App Testing](#web-app-testing)
-- [Miscellaneous](#miscellaneous)
-- [Notes](#notes)
+- [Social Engineering & Exploitation Tools](#social-engineering--exploitation-tools)
+- [Forensics & Analysis](#forensics--analysis)
+- [Web Application Testing](#web-application-testing)
+- [Specialized & Miscellaneous Tools](#specialized--miscellaneous-tools)
+- [Notes on Platform Support](#notes-on-platform-support)
 
 ---
 
