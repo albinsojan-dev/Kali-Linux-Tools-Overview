@@ -37,6 +37,7 @@ This repository showcases a collection of essential Kali Linux tools for penetra
 | **Httpx** | Fast HTTP probe for validating live hosts and gathering web server information | Web server validation and probing | Kali, macOS, Windows |
 | **Shodan-cli** | CLI interface for Shodan, a search engine for internet-connected devices | Internet-wide device reconnaissance | Kali, macOS, Windows |
 | **Masscan** | High-speed port scanner for large network ranges and rapid reconnaissance | Large-scale port scanning and discovery | Kali, Linux, macOS |
+| **Blood Hound** | Open-source tool that uses graph theory to visualize relationships and attack paths in Active Directory environments | Identifying privilege escalation paths and misconfigurations in AD for penetration testing and defense | Kali, macOS, Windows (cross-platform with Neo4j backend) |
 
 ### Network & Web Tools
 | Tool | Description | Use Case | Supported Platforms |
